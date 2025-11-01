@@ -1,0 +1,84 @@
+Order_ID,Feedback_Date,Rating,Feedback_Text,Would_Recommend,Issue_Category
+ORD000002,2025-10-03,1,"Great service, very fast delivery!",Yes,Timing
+ORD000003,2025-09-30,3,"Perfect condition, thank you",No,Timing
+ORD000007,2025-10-12,4,"Delayed by 3 days, not acceptable",Yes,Timing
+ORD000009,2025-09-25,5,Wrong item delivered,Yes,Service
+ORD000011,2025-09-16,3,"Perfect condition, thank you",No,Timing
+ORD000013,2025-10-13,4,Wrong item delivered,Yes,Timing
+ORD000014,2025-10-16,5,Package arrived damaged,Yes,Service
+ORD000015,2025-09-27,5,Poor customer service response,Yes,None
+ORD000019,2025-09-30,1,"Delayed by 3 days, not acceptable",No,Timing
+ORD000020,2025-10-20,5,Driver was very professional,Yes,None
+ORD000021,2025-10-03,5,Excellent packaging,No,Quality
+ORD000022,2025-10-14,5,Poor customer service response,Yes,None
+ORD000023,2025-09-05,4,Driver was very professional,Yes,None
+ORD000025,2025-10-17,5,Late delivery but good quality,No,Quality
+ORD000026,2025-09-20,3,Late delivery but good quality,Yes,Service
+ORD000030,2025-10-28,5,Wrong item delivered,Yes,Other
+ORD000031,2025-10-07,3,Poor customer service response,Yes,None
+ORD000032,2025-10-21,3,"Great service, very fast delivery!",No,Service
+ORD000034,2025-09-27,3,Driver was very professional,Yes,None
+ORD000038,2025-09-11,1,Poor customer service response,Yes,Timing
+ORD000040,2025-09-12,5,"Perfect condition, thank you",No,Quality
+ORD000041,2025-09-24,3,"No complaints, smooth process",Yes,Timing
+ORD000044,2025-09-23,5,Driver was very professional,No,Other
+ORD000048,2025-10-25,5,Package arrived damaged,Yes,Service
+ORD000049,2025-09-16,3,Driver was very professional,Yes,None
+ORD000052,2025-09-30,3,"Great service, very fast delivery!",Yes,Timing
+ORD000053,2025-10-04,5,Wrong item delivered,Yes,Timing
+ORD000055,2025-09-22,3,Package arrived damaged,No,Timing
+ORD000060,2025-09-20,5,Package arrived damaged,Yes,None
+ORD000062,2025-10-14,4,Late delivery but good quality,Yes,Quality
+ORD000063,2025-10-30,3,"Great service, very fast delivery!",Yes,Service
+ORD000066,2025-09-18,3,Late delivery but good quality,Yes,Quality
+ORD000067,2025-09-07,5,"Delayed by 3 days, not acceptable",Yes,None
+ORD000073,2025-10-25,2,Excellent packaging,Yes,None
+ORD000076,2025-10-10,5,Package arrived damaged,Yes,None
+ORD000077,2025-09-20,5,Package arrived damaged,Yes,None
+ORD000078,2025-10-12,5,"Perfect condition, thank you",No,Quality
+ORD000080,2025-09-20,5,Late delivery but good quality,Yes,None
+ORD000082,2025-09-23,3,"Perfect condition, thank you",Yes,Quality
+ORD000083,2025-10-04,2,Excellent packaging,Yes,Timing
+ORD000084,2025-10-15,5,Late delivery but good quality,Yes,None
+ORD000085,2025-10-01,1,Excellent packaging,Yes,None
+ORD000086,2025-09-26,1,Excellent packaging,Yes,None
+ORD000087,2025-10-29,4,"No complaints, smooth process",Yes,Timing
+ORD000090,2025-10-03,3,"Great service, very fast delivery!",No,Service
+ORD000091,2025-10-05,1,Package arrived damaged,Yes,Timing
+ORD000092,2025-10-02,4,Excellent packaging,Yes,Quality
+ORD000093,2025-10-26,1,"No complaints, smooth process",Yes,Service
+ORD000096,2025-09-21,5,"No complaints, smooth process",Yes,Service
+ORD000097,2025-10-20,3,Excellent packaging,No,Quality
+ORD000098,2025-09-13,3,Driver was very professional,Yes,None
+ORD000099,2025-10-01,4,Wrong item delivered,Yes,Timing
+ORD000100,2025-09-09,5,Wrong item delivered,Yes,Quality
+ORD000101,2025-09-13,5,"Great service, very fast delivery!",Yes,Timing
+ORD000102,2025-10-04,4,"No complaints, smooth process",Yes,None
+ORD000103,2025-09-06,3,Excellent packaging,Yes,Quality
+ORD000106,2025-10-01,1,"Great service, very fast delivery!",Yes,None
+ORD000107,2025-09-12,5,Late delivery but good quality,Yes,Service
+ORD000108,2025-09-29,4,Poor customer service response,No,Timing
+ORD000109,2025-09-14,5,"No complaints, smooth process",Yes,Timing
+ORD000111,2025-10-19,5,Package arrived damaged,Yes,Quality
+ORD000112,2025-10-17,4,Driver was very professional,Yes,Timing
+ORD000113,2025-09-20,1,"Perfect condition, thank you",Yes,Timing
+ORD000114,2025-10-22,5,"Great service, very fast delivery!",No,Service
+ORD000118,2025-09-14,5,"Great service, very fast delivery!",No,Service
+ORD000119,2025-09-18,1,"Great service, very fast delivery!",Yes,None
+ORD000120,2025-09-15,5,"Great service, very fast delivery!",Yes,Timing
+ORD000124,2025-10-27,5,"Delayed by 3 days, not acceptable",Yes,Quality
+ORD000125,2025-09-28,3,Late delivery but good quality,Yes,Other
+ORD000128,2025-10-09,3,Wrong item delivered,Yes,None
+ORD000133,2025-10-12,4,"Perfect condition, thank you",No,None
+ORD000138,2025-09-29,3,Late delivery but good quality,Yes,Quality
+ORD000139,2025-09-07,1,Late delivery but good quality,No,None
+ORD000140,2025-09-13,4,"No complaints, smooth process",Yes,Quality
+ORD000141,2025-09-15,3,"No complaints, smooth process",No,None
+ORD000142,2025-10-04,5,"No complaints, smooth process",No,Quality
+ORD000143,2025-09-18,1,Late delivery but good quality,No,Quality
+ORD000144,2025-10-16,2,"No complaints, smooth process",Yes,None
+ORD000145,2025-10-08,5,"Perfect condition, thank you",No,None
+ORD000146,2025-09-14,3,Wrong item delivered,Yes,None
+ORD000147,2025-09-21,3,"Perfect condition, thank you",No,None
+ORD000149,2025-10-04,5,Poor customer service response,Yes,Timing
+ORD000150,2025-10-21,4,Late delivery but good quality,Yes,Timing

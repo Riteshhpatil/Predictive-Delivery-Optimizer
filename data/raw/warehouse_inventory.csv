@@ -1,0 +1,36 @@
+Warehouse_ID,Location,Product_Category,Current_Stock_Units,Reorder_Level,Storage_Cost_per_Unit,Last_Restocked_Date
+WH001_Mumbai,Mumbai,Electronics,3042,925,18.32,2025-10-06
+WH001_Mumbai,Mumbai,Fashion,1800,798,13.07,2025-10-07
+WH001_Mumbai,Mumbai,Food & Beverage,4690,823,10.29,2025-10-04
+WH001_Mumbai,Mumbai,Healthcare,3418,815,43.83,2025-10-16
+WH001_Mumbai,Mumbai,Industrial,745,819,28.17,2025-09-29
+WH001_Mumbai,Mumbai,Books,4953,488,20.54,2025-10-10
+WH001_Mumbai,Mumbai,Home Goods,598,833,20.94,2025-09-23
+WH002_Delhi,Delhi,Electronics,214,873,28.37,2025-09-23
+WH002_Delhi,Delhi,Fashion,2353,878,7.6,2025-09-29
+WH002_Delhi,Delhi,Food & Beverage,246,317,14.88,2025-09-23
+WH002_Delhi,Delhi,Healthcare,2510,708,23.66,2025-10-20
+WH002_Delhi,Delhi,Industrial,3105,680,29.34,2025-10-11
+WH002_Delhi,Delhi,Books,548,553,23.54,2025-09-29
+WH002_Delhi,Delhi,Home Goods,2020,292,28.96,2025-10-08
+WH003_Bangalore,Bangalore,Electronics,2707,632,27.31,2025-09-22
+WH003_Bangalore,Bangalore,Fashion,3072,494,11.43,2025-09-25
+WH003_Bangalore,Bangalore,Food & Beverage,4266,468,22.63,2025-10-04
+WH003_Bangalore,Bangalore,Healthcare,916,302,23.87,2025-10-04
+WH003_Bangalore,Bangalore,Industrial,3745,728,43.58,2025-09-24
+WH003_Bangalore,Bangalore,Books,1888,586,30.23,2025-09-30
+WH003_Bangalore,Bangalore,Home Goods,2563,993,16.4,2025-09-26
+WH004_Chennai,Chennai,Electronics,3993,867,36.38,2025-09-27
+WH004_Chennai,Chennai,Fashion,4004,292,41.96,2025-10-05
+WH004_Chennai,Chennai,Food & Beverage,2572,698,10.73,2025-09-29
+WH004_Chennai,Chennai,Healthcare,3916,398,25.31,2025-10-02
+WH004_Chennai,Chennai,Industrial,758,628,26.8,2025-10-10
+WH004_Chennai,Chennai,Books,3864,741,34.15,2025-10-03
+WH004_Chennai,Chennai,Home Goods,2582,583,14.16,2025-10-13
+WH005_Kolkata,Kolkata,Electronics,2681,717,22.52,2025-09-26
+WH005_Kolkata,Kolkata,Fashion,2439,534,8.0,2025-09-26
+WH005_Kolkata,Kolkata,Food & Beverage,3220,884,25.27,2025-10-08
+WH005_Kolkata,Kolkata,Healthcare,2704,534,15.42,2025-09-22
+WH005_Kolkata,Kolkata,Industrial,734,945,19.45,2025-10-02
+WH005_Kolkata,Kolkata,Books,102,893,37.82,2025-10-13
+WH005_Kolkata,Kolkata,Home Goods,2721,843,25.89,2025-10-01

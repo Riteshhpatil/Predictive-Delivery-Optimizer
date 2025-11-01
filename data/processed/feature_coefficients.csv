@@ -1,0 +1,9 @@
+Feature,Coefficient,Abs_Coefficient,Impact
+Route_Historical_Delay_Rate,0.2448540339272717,0.2448540339272717,Increases Delay Risk
+Carrier_Historical_Delay_Rate,0.09757310592993464,0.09757310592993464,Increases Delay Risk
+Carrier_Avg_Rating,-0.09359773705667203,0.09359773705667203,Decreases Delay Risk
+Distance_KM,0.03358202053078469,0.03358202053078469,Increases Delay Risk
+Has_Weather_Impact,-0.016384223720169056,0.016384223720169056,Decreases Delay Risk
+Promised_Delivery_Days,0.014007190088489095,0.014007190088489095,Increases Delay Risk
+Is_Express,0.005630041532237044,0.005630041532237044,Increases Delay Risk
+Is_Weekend_Order,0.002357362124382915,0.002357362124382915,Increases Delay Risk
