@@ -218,11 +218,6 @@ User Input → Feature Extraction → Stage 1 Prediction (Delay?) → Stage 2 
 - Distance: 900km | Priority: Express | Weather issues
 - Prediction: 🚨 78% delay probability | Recommended: Carrier change, customer contact
 
-## 📚 Documentation
-
-- [Innovation Brief](./NexGen_Logistics_Innovation_Brief.docx) - Full project documentation
-- [Training Script](./train_hierarchical_final.py) - Model training details
-- [Dashboard Code](./app.py) - Application source code
 
 ## 🎯 Next Steps
 
